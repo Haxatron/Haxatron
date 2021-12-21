@@ -26,7 +26,7 @@ CVE Count: 19
 | CVE-2021-3963 | CSRF to delete invoice templates | [kevinpapst/kimai2](https://www.github.com/kevinpapst/kimai2) | https://huntr.dev/bounties/3abf308b-7dbd-4864-b1a9-5c45b876def8/ | - |
 | CVE-2021-3976 | CSRF related to "duplicate" action | [kevinpapst/kimai2](https://www.github.com/kevinpapst/kimai2) | https://huntr.dev/bounties/0567048a-118c-42ec-9f94-b55533017406/ | - |
 | CVE-2021-4033 | CSRF to disrupt invoice tracking + modify search favorites | [kevinpapst/kimai2](https://www.github.com/kevinpapst/kimai2) | https://huntr.dev/bounties/e05be1f7-d00c-4cfd-9390-ccd9d1c737b7/ | - |
-| CVE-2021-4005 | CSRF to disable 2FA | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://www.github.com/firefly-iii/firefly-iii | - |
+| CVE-2021-4005 | CSRF to disable 2FA | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/bf4ef581-325a-492d-a710-14fcb53f00ff/ | - |
 | CVE-2021-3900 | CSRF to modify rules / rule groups | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/909e55b6-ef02-4143-92e4-bc3e8397db76/ | - |
 | CVE-2021-4015 | CSRF related to transactions | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/b698d445-602d-4701-961c-dffe6d3009b1/ | - |
 
