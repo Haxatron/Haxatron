@@ -8,7 +8,7 @@ Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers
 
 CVE Count: 19
 
-|  CVE-ID | Summary | Project | Report Link | My Thoughts |
+|  CVE-ID Number | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CVE-2021-3838 | Pending Fix  |  [dompdf/dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
 | CVE-2021-3902 | Pending Fix  |  [dompdf/dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
