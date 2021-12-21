@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Haxatron/Haxatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a open-source security researcher finding and reporting security vulnerabilities affecting various open-source projects
 
-Here are some ideas to get you started:
+### My CVEs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers are allocated close to one another.
+
+CVE Count: 19
+
+| CVE-ID | Summary | Project | Report Link | My Thoughts |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CVE-2021-3838 | Pending Fix  |  [dompdf/dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
+| CVE-2021-3902 | Pending Fix  |  [dompdf/dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
+| CVE-2021-3874 | Path Traversal via link expansion in PDF exports  |  [bookstackapp/bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/ac268a17-72b5-446f-a09a-9945ef58607a/ | Exploiting path traversals in Laravel apps require a slightly different proof-of-concept than usual! |
+| CVE-2021-3902 | Improper Access Control + SQL Wildcard injection leads to dumping of user details |  [bookstackapp/bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/135f2d7d-ab0b-4351-99b9-889efac46fca/ | This one required whitebox techniques! |
+
+
