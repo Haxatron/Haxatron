@@ -29,3 +29,12 @@ CVE Count: 19
 | CVE-2021-4005 | CSRF to disable 2FA | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://www.github.com/firefly-iii/firefly-iii | - |
 | CVE-2021-3900 | CSRF to modify rules / rule groups | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/909e55b6-ef02-4143-92e4-bc3e8397db76/ | - |
 | CVE-2021-4015 | CSRF related to transactions | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/b698d445-602d-4701-961c-dffe6d3009b1/ | - |
+
+### Featured Reports (Without CVEs)
+
+| Summary | Project | Report Link | My Thoughts |
+| ------------- | ------------- | ------------- | ------------- | 
+| One-click RCE in an ElectronJS Application | [jerrod-lankford/google-voice-desktop-app](https://www.github.com/jerrod-lankford/google-voice-desktop-app) | https://huntr.dev/bounties/1e56ac67-6a41-490e-a9d3-6fe154ca3688/ | A good primer to ElectronJS exploitation! |
+| Reflected XSS using double-URL encoding | [admidio/admidio](https://www.github.com/admidio/admidio) | https://huntr.dev/bounties/b6047e20-c60a-41c3-8fc5-fbe1e47d283e/ | - |
+| Reflected XSS fix bypass using triple-URL encoding | [admidio/admidio](https://www.github.com/admidio/admidio) | https://huntr.dev/bounties/f502537e-97b3-4f7c-b51c-1d0706b22fd2/ | - |
+| (Improper Access Control) Access drafts of restricted pages in the same namespace using conflicting cache names | [splitbrain/dokuwiki](https://www.github.com/splitbrain/dokuwiki) | https://huntr.dev/bounties/eeb1508f-a986-45cb-9aaf-312deb225a84/ | Source code reviews reveal interesting findings. |
