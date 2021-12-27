@@ -6,7 +6,7 @@ I am a open-source security researcher finding and reporting security vulnerabil
 
 Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers are allocated close to one another.
 
-CVE Count: 19
+CVE Count: 20
 
 |  CVE-ID | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -29,7 +29,7 @@ CVE Count: 19
 | CVE-2021-4005 | CSRF to disable 2FA | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/bf4ef581-325a-492d-a710-14fcb53f00ff/ | - |
 | CVE-2021-3900 | CSRF to modify rules / rule groups | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/909e55b6-ef02-4143-92e4-bc3e8397db76/ | - |
 | CVE-2021-4015 | CSRF related to transactions | [firefly-iii/firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/b698d445-602d-4701-961c-dffe6d3009b1/ | - |
-
+| CVE-2021-41273 | CSRF allowing sending of test emails and generation of node auto-deployment keys | [pterodactyl/panel](https://github.com/pterodactyl/panel) | https://github.com/pterodactyl/panel/security/advisories/GHSA-wwgq-9jhf-qgw6 | - |
 ### My Interesting Reports (Without CVEs)
 
 | Summary | Project | Report Link | My Thoughts |
