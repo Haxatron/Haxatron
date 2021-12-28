@@ -4,7 +4,7 @@ I am a open-source security researcher finding and reporting security vulnerabil
 
 ### Contact 
 
-If you are a maintainer and would like me to take a look at you repository (for free!), you can contact me at haxatron1@gmail.com with the name of your repository. Security issues will be reported via [huntr.dev](https://huntr.dev/policy/)
+If you are a maintainer and would like me to take a look at your repository (for free!), you can contact me at haxatron1@gmail.com with the name of your repository. Security issues will be reported via [huntr.dev](https://huntr.dev/policy/)
 
 Factors I take into account when deciding whether to review:
 
