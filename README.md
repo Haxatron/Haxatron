@@ -2,6 +2,13 @@
 
 I am a open-source security researcher finding and reporting security vulnerabilities affecting various open-source projects
 
+If you would like me to take a look at you repository, you can contact me at haxatron1 [at] gmail.com with the name of your repository. Security issues will be reported via huntr.dev
+
+Factors I take into account when deciding whether to review:
+
+- Ease of Installation
+- Number of stars / forks 
+
 ### My CVEs
 
 Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers are allocated close to one another.
