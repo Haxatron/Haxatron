@@ -7,7 +7,7 @@ If you would like me to take a look at you repository (for free), you can contac
 Factors I take into account when deciding whether to review:
 
 - Ease of Installation (Dockerfiles are great!)
-- Number of stars / forks (should be 2000+)
+- Number of stars / forks
 
 ### My CVEs
 
