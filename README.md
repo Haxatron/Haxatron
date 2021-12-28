@@ -2,7 +2,7 @@
 
 I am a open-source security researcher finding and reporting security vulnerabilities affecting various open-source projects
 
-### Contact 
+### Contact ☎
 
 If you are a maintainer and would like me to take a look at your repository (for free!), you can contact me at haxatron1@gmail.com with the name of your repository. Security issues will be reported via [huntr.dev](https://huntr.dev/policy/)
 
@@ -11,7 +11,7 @@ Factors I take into account when deciding whether to review:
 - Ease of Installation (Dockerfiles are great!)
 - Number of stars / forks
 
-### My CVEs
+### My CVEs 📰
 
 Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers are allocated close to one another.
 
@@ -41,7 +41,7 @@ CVE Count: 22
 | CVE-2021-3900 | CSRF to modify rules / rule groups | [firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/909e55b6-ef02-4143-92e4-bc3e8397db76/ | - |
 | CVE-2021-4015 | CSRF related to transactions | [firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/b698d445-602d-4701-961c-dffe6d3009b1/ | - |
 | CVE-2021-41273 | CSRF allows sending test emails and generation of keys | [pterodactyl](https://github.com/pterodactyl/panel) | https://github.com/pterodactyl/panel/security/advisories/GHSA-wwgq-9jhf-qgw6 | - |
-### My Interesting Reports (Without CVEs)
+### My Interesting Reports (Without CVEs) ⭐
 
 | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | 
