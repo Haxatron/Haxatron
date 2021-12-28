@@ -6,12 +6,12 @@ I am a open-source security researcher finding and reporting security vulnerabil
 
 Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers are allocated close to one another.
 
-CVE Count: 20
+CVE Count: 22
 
 |  CVE-ID | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| GHSA-rhpf-929m-7fm2 | XSS via other dangerous filetypes (XML/HTM) |  [wiki.js](https://www.github.com/requarks/wiki) | https://github.com/Requarks/wiki/security/advisories/GHSA-rhpf-929m-7fm2 | |
-| GHSA-4893-pj5w-3hq9 | XSS via bypassing SVG sanitization with user-controlled MIME type  |  [wiki.js](https://www.github.com/requarks/wiki) | https://github.com/Requarks/wiki/security/advisories/GHSA-4893-pj5w-3hq9 | |
+| CVE-2021-43856 | XSS via other dangerous filetypes (XML/HTM) |  [wiki.js](https://www.github.com/requarks/wiki) | https://github.com/Requarks/wiki/security/advisories/GHSA-rhpf-929m-7fm2 | |
+| CVE-2021-43855 | XSS via bypassing SVG sanitization with user-controlled MIME type  |  [wiki.js](https://www.github.com/requarks/wiki) | https://github.com/Requarks/wiki/security/advisories/GHSA-4893-pj5w-3hq9 | |
 | CVE-2021-3838 | Pending Fix  |  [dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
 | CVE-2021-3902 | Pending Fix  |  [dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
 | CVE-2021-3874 | Path Traversal via link expansion in PDF exports  |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/ac268a17-72b5-446f-a09a-9945ef58607a/ | Exploiting path traversals in Laravel apps require a slightly different proof-of-concept than usual! |
