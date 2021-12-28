@@ -2,12 +2,12 @@
 
 I am a open-source security researcher finding and reporting security vulnerabilities affecting various open-source projects
 
-If you would like me to take a look at you repository, you can contact me at haxatron1@gmail.com with the name of your repository. Security issues will be reported via [huntr.dev](https://huntr.dev/policy/)
+If you would like me to take a look at you repository (for free), you can contact me at haxatron1@gmail.com with the name of your repository. Security issues will be reported via [huntr.dev](https://huntr.dev/policy/)
 
 Factors I take into account when deciding whether to review:
 
-- Ease of Installation
-- Number of stars / forks 
+- Ease of Installation (Dockerfiles are great!)
+- Number of stars / forks (should be 2000+)
 
 ### My CVEs
 
