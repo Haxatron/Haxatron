@@ -8,7 +8,7 @@ If you are a maintainer and would like me to take a look at your repository (for
 
 Factors I take into account when deciding whether to review:
 
-- Ease of Installation (Dockerfiles are great!)
+- Ease of Installation (Dockerfiles / Step-by-step documentation are great! High setup requirements ie. SSL / SMTP / OIDC servers are not)
 - Number of stars / forks
 
 ### My CVEs 📰
