@@ -15,7 +15,7 @@ Factors I take into account when deciding whether to review:
 
 Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers are allocated close to one another.
 
-CVE Count: 22
+CVE Count: 23
 
 |  CVE-ID | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
