@@ -19,7 +19,8 @@ CVE Count: 32
 
 |  CVE-ID | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| CVE-2022-0144 | Leaking stdout/stderr from privileged processes |  [shelljs](https://www.github.com/shelljs/shelljs) | https://huntr.dev/bounties/50996581-c08e-4eed-a90e-c0bac082679c/ | - |
+| CVE-2022-0219 | XXE via crafted AndroidManifest.xml / strings.xml during export gradle |  [jadx](https://www.github.com/skylot/jadx) | https://huntr.dev/bounties/0d093863-29e8-4dd7-a885-64f76d50bf5e/ | - |
+| CVE-2022-0144 | Leaking stdout/stderr from privileged processes |  [shelljs](https://www.github.com/shelljs/shelljs) | https://github.com/shelljs/shelljs/security/advisories/GHSA-64g7-mvw6-v9qj | - |
 | CVE-2022-0133 | (Improper Access Control) Unauthenticated users can read video captions |  [peertube](https://github.com/Chocobozzz/PeerTube) | https://huntr.dev/bounties/80aabdc1-89fe-47b8-87ca-9d68107fc0b4/ | - |
 | CVE-2022-0132 | SSRF in get video by URL function |  [peertube](https://github.com/Chocobozzz/PeerTube) | https://huntr.dev/bounties/77ec5308-5561-4664-af21-d780df2d1e4b/ | - |
 | CVE-2022-0086 | Bypass SSRF controls via IPv4-mapped IPv6 addresses in uppy companion module|  [uppy](https://www.github.com/transloadit/uppy) | https://huntr.dev/bounties/c1c03ef6-3f18-4976-a9ad-08c251279122/ | - |
@@ -27,6 +28,7 @@ CVE Count: 32
 | CVE-2021-43855 | XSS via bypassing SVG sanitization with user-controlled MIME type  |  [wiki.js](https://www.github.com/requarks/wiki) | https://github.com/Requarks/wiki/security/advisories/GHSA-4893-pj5w-3hq9 | - |
 | CVE-2021-3838 | Pending Fix  |  [dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
 | CVE-2021-3902 | Pending Fix  |  [dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
+| CVE-2022-0085 | Pending Fix  |  [dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
 | CVE-2021-3874 | Path Traversal via link expansion in PDF exports  |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/ac268a17-72b5-446f-a09a-9945ef58607a/ | Exploiting path traversals in Laravel apps require a slightly different proof-of-concept than usual! |
 | CVE-2021-3906 | Uploaded Files with broken extensions will be served as HTML leading to XSS / Phishing vector |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/f115bdf5-c06b-4627-a6fa-ba6904a43ba3/ | This one required a bit of experimentation - and of course, source-code review |
 | CVE-2021-4119 | Improper Access Control + SQL Wildcard injection leads to dumping of user details |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/135f2d7d-ab0b-4351-99b9-889efac46fca/ | I've never heard of SQL wildcard injection before writing this report. This one required source-code review |
@@ -46,6 +48,9 @@ CVE Count: 32
 | CVE-2021-3900 | CSRF to modify rules / rule groups | [firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/909e55b6-ef02-4143-92e4-bc3e8397db76/ | - |
 | CVE-2021-4015 | CSRF related to transactions | [firefly-iii](https://www.github.com/firefly-iii/firefly-iii) | https://huntr.dev/bounties/b698d445-602d-4701-961c-dffe6d3009b1/ | - |
 | CVE-2021-41273 | CSRF allows sending test emails and generation of keys | [pterodactyl](https://github.com/pterodactyl/panel) | https://github.com/pterodactyl/panel/security/advisories/GHSA-wwgq-9jhf-qgw6 | - |
+| CVE-2022-0198 | XXE in TransformXML | [corenlp](https://www.github.com/stanfordnlp/corenlp) | https://huntr.dev/bounties/3d7e70fe-dddd-4b79-af62-8e058c4d5763/ | - |
+| CVE-2022-0239 | XXE in schema loading | [corenlp](https://www.github.com/stanfordnlp/corenlp) | https://huntr.dev/bounties/a717aec2-5646-4a5f-ade0-dadc25736ae3/ | - |
+
 ### My Interesting Reports (Without CVEs) ⭐
 
 | Summary | Project | Report Link | My Thoughts |
