@@ -15,20 +15,24 @@ Factors I take into account when deciding whether to review:
 
 Note: I use huntr.dev as a CNA (Certificate Numbering Authority), so CVE numbers are allocated close to one another.
 
-CVE Count: 23
+CVE Count: 32
 
 |  CVE-ID | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| CVE-2022-0144 | Leaking stdout/stderr from privileged processes |  [shelljs](https://www.github.com/shelljs/shelljs) | https://huntr.dev/bounties/50996581-c08e-4eed-a90e-c0bac082679c/ | - |
+| CVE-2022-0133 | (Improper Access Control) Unauthenticated users can read video captions |  [peertube](https://github.com/Chocobozzz/PeerTube) | https://huntr.dev/bounties/80aabdc1-89fe-47b8-87ca-9d68107fc0b4/ | - |
+| CVE-2022-0132 | SSRF in get video by URL function |  [peertube](https://github.com/Chocobozzz/PeerTube) | https://huntr.dev/bounties/77ec5308-5561-4664-af21-d780df2d1e4b/ | - |
 | CVE-2022-0086 | Bypass SSRF controls via IPv4-mapped IPv6 addresses in uppy companion module|  [uppy](https://www.github.com/transloadit/uppy) | https://huntr.dev/bounties/c1c03ef6-3f18-4976-a9ad-08c251279122/ | - |
 | CVE-2021-43856 | XSS via other dangerous filetypes (XML/HTM) |  [wiki.js](https://www.github.com/requarks/wiki) | https://github.com/Requarks/wiki/security/advisories/GHSA-rhpf-929m-7fm2 | - |
 | CVE-2021-43855 | XSS via bypassing SVG sanitization with user-controlled MIME type  |  [wiki.js](https://www.github.com/requarks/wiki) | https://github.com/Requarks/wiki/security/advisories/GHSA-4893-pj5w-3hq9 | - |
 | CVE-2021-3838 | Pending Fix  |  [dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
 | CVE-2021-3902 | Pending Fix  |  [dompdf](https://www.github.com/dompdf/dompdf) | Pending Fix | Pending Fix |
 | CVE-2021-3874 | Path Traversal via link expansion in PDF exports  |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/ac268a17-72b5-446f-a09a-9945ef58607a/ | Exploiting path traversals in Laravel apps require a slightly different proof-of-concept than usual! |
-| CVE-2021-3906 | Uploaded Files with broken extensions will be served as Content-Type: text/html leading to XSS / Phishing vector |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/f115bdf5-c06b-4627-a6fa-ba6904a43ba3/ | This one required a bit of experimentation - and of course, source-code review |
+| CVE-2021-3906 | Uploaded Files with broken extensions will be served as HTML leading to XSS / Phishing vector |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/f115bdf5-c06b-4627-a6fa-ba6904a43ba3/ | This one required a bit of experimentation - and of course, source-code review |
 | CVE-2021-4119 | Improper Access Control + SQL Wildcard injection leads to dumping of user details |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/135f2d7d-ab0b-4351-99b9-889efac46fca/ | I've never heard of SQL wildcard injection before writing this report. This one required source-code review |
 | CVE-2021-4026 | (Improper Access Control) Attachments of draft pages can be accessed via API |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/c6dfa80d-43e6-4b49-95af-cc031bb66b1d/ | Always check the APIs available! |
 | CVE-2021-3944 | Login CSRF via password reset links |  [bookstack](https://www.github.com/bookstackapp/bookstack) | https://huntr.dev/bounties/65551490-5ade-49aa-8b8d-274c2ca9fdc9/ | - |
+| CVE-2022-0179 | (Improper Access Control) All bulk actions do not have access-control checks |  [snipe-it](https://www.github.com/snipe/snipe-it) | https://huntr.dev/bounties/efdf2ead-f9d1-4767-9f02-d11f762d15e7/ | - |
 | CVE-2021-4089 | (Improper Access Control) Asset Model Cloning form endpoint can be accessed without "view" and "create" permissions |  [snipe-it](https://www.github.com/snipe/snipe-it) | https://huntr.dev/bounties/19453ef1-4d77-4cff-b7e8-1bc8f3af0862/ | There is an assumption that forms do not require access control checks. However, cloning and duplication forms definitely need at least "view" access control checks to prevent leak of data. |
 | CVE-2021-4075 | POST-based SSRF in Slack Webhooks as admin | [snipe-it](https://www.github.com/snipe/snipe-it) | https://huntr.dev/bounties/4386fd8b-8c80-42bb-87b8-b506c46597de/ | - |
 | CVE-2021-4130 | CSRF to disrupt request tracking | [snipe-it](https://www.github.com/snipe/snipe-it) | https://huntr.dev/bounties/ccf073cd-7f54-4d51-89f2-6b4a2e4ae81e/ | - |
