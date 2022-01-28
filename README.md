@@ -20,7 +20,7 @@ CVE Count: 32
 |  CVE-ID | Summary | Project | Report Link | My Thoughts |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CVE-2022-0219 | XXE via crafted AndroidManifest.xml / strings.xml during export gradle |  [jadx](https://www.github.com/skylot/jadx) | https://huntr.dev/bounties/0d093863-29e8-4dd7-a885-64f76d50bf5e/ | - |
-| CVE-2022-0144 | Leaking stdout/stderr from privileged processes |  [shelljs](https://www.github.com/shelljs/shelljs) | https://github.com/shelljs/shelljs/security/advisories/GHSA-64g7-mvw6-v9qj | - |
+| CVE-2022-0144 | Leaking stdout/stderr from exec() of privileged processes |  [shelljs](https://www.github.com/shelljs/shelljs) | https://github.com/shelljs/shelljs/security/advisories/GHSA-64g7-mvw6-v9qj | - |
 | CVE-2022-0133 | (Improper Access Control) Unauthenticated users can read private video captions |  [peertube](https://github.com/Chocobozzz/PeerTube) | https://huntr.dev/bounties/80aabdc1-89fe-47b8-87ca-9d68107fc0b4/ | - |
 | CVE-2022-0132 | SSRF in get video by URL function |  [peertube](https://github.com/Chocobozzz/PeerTube) | https://huntr.dev/bounties/77ec5308-5561-4664-af21-d780df2d1e4b/ | - |
 | CVE-2022-0086 | Bypass SSRF controls via IPv4-mapped IPv6 addresses in uppy companion module|  [uppy](https://www.github.com/transloadit/uppy) | https://huntr.dev/bounties/c1c03ef6-3f18-4976-a9ad-08c251279122/ | - |
