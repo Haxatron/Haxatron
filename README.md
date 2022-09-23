@@ -5,3 +5,7 @@ I am a open-source security researcher finding and reporting security vulnerabil
 ### Contact ☎
 
 Contact me at haxatron1@gmail.com.
+
+### Current Focus 🔍
+
+Browser-related security issues
