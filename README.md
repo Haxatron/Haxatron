@@ -8,4 +8,4 @@ Contact me at base64decode(aGF4YXRyb24x) @gmail.com.
 
 ### Current Focus 🔍
 
-Browser-related security issues
+Smart Contract / Blockchain Security (Previously: Browser Security)
