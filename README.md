@@ -13,7 +13,7 @@ I specialize in blockchain infrastructure and complex systems, spanning across a
 | Story L1 | Proof-of-creativity IP protocol, Cosmos SDK client supporting EVM consensus and staking, Geth fork | 4th ($81,021) |
 | Ethereum Pectra Upgrade | Ethereum Pectra Upgrade | 4th ($67,500) |
 | Ronin Network | Proof-of-Authority Geth fork | 4th ($62,256) |
-| Blast L1 | OP stack and Geth fork implementing native yield and novel gas refund mechanism | 7th ($49,659) |
+| Blast L1 | OP stack and Geth fork implementing native yield and novel gas tracking and refund mechanism | 7th ($49,659) |
 | Chainlink CCIP | Cross-chain interoperability and bridging protocol | 🥉 3rd ($10,792) |
 | Ark NFT bridge | Ethereum <-> Starknet NFT bridge implemented in Cairo and Solidity | 🥉 3rd ($3,153) |
 
