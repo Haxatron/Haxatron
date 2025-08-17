@@ -15,7 +15,7 @@ I specialize in blockchain infrastructure and complex systems, spanning across a
 | Ronin Network | Proof-of-Authority Geth fork | 4th ($62,256) |
 | Blast L2 | OP stack and Geth fork implementing native yield and novel gas tracking and refund mechanism | 7th ($49,659) |
 | Chainlink CCIP | Cross-chain interoperability and bridging protocol | 🥉 3rd ($10,792) |
-| Thanos L2 | OP stack fork implementing L1 ERC20 token as native token on L2 | 🥇 1st ($4500) |
+| Thanos L2 | OP stack fork implementing L1 ERC20 token as native token on L2 | 🥇 1st ($4,500) |
 | Ark NFT bridge | Ethereum <-> Starknet NFT bridge implemented in Cairo and Solidity | 🥉 3rd ($3,153) |
 
 
