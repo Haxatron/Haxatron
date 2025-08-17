@@ -16,5 +16,5 @@ I specialize in blockchain infrastructure, spanning across a wide variety of top
 ## Private Audits
 | Audit | Description | Report |
 | ------------- | ------------- | ------------- |
-| Monad L1 | Rust consensus and networking client and custom C++ execution VM | SOON |
+| Monad L1 | Rust consensus, networking client and custom C++ execution VM | SOON |
 | Lombard Approver | Babylon BTC staking transaction off-chain approver | Link |
