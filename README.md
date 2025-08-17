@@ -2,7 +2,7 @@
 
 I am previously a Web2 security researcher turned Web3 security researcher having earned $750K+ rewards across different audit platforms. 
 
-I specialize in blockchain infrastructure, spanning across a wide variety of topics: cross-chain bridging, layer 1 and layer 2, execution and consensus layers, Cosmos SDK. Below is a sample of my past work:
+I specialize in blockchain infrastructure and complex systems, spanning across a wide variety of topics: cross-chain bridging, layer 1 and layer 2, execution and consensus layers, Cosmos SDK. Below is a sample of my past work:
 
 ## Contests
 | Contest | Description | Result | 
