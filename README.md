@@ -17,4 +17,4 @@ I specialize in blockchain infrastructure, spanning across a wide variety of top
 | Audit | Description | Report |
 | ------------- | ------------- | ------------- |
 | Monad L1 | Rust consensus, networking client and custom C++ execution VM | SOON |
-| Lombard Approver | Babylon BTC staking transaction off-chain approver | Link |
+| Lombard Approver | Babylon BTC staking transaction off-chain approver | [Link](https://github.com/Haxatron/Haxatron/blob/main/reports/cantina_lombard_december2024.pdf) |
