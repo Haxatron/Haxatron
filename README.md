@@ -22,5 +22,5 @@ I specialize in blockchain infrastructure and complex systems, spanning across a
 ## Private Audits
 | Audit | Description | Report |
 | ------------- | ------------- | ------------- |
-| Monad L1 | Rust consensus client and C++ execution VM | SOON |
+| Monad L1 | Rust consensus client and C++ execution VM | [Link](https://github.com/Haxatron/Haxatron/blob/main/reports/report-cantinacode-monad-0702.pdf) |
 | Lombard Approver | Babylon BTC staking transaction off-chain approver | [Link](https://github.com/Haxatron/Haxatron/blob/main/reports/cantina_lombard_december2024.pdf) |
