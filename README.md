@@ -8,12 +8,14 @@ I specialize in blockchain infrastructure and complex systems, spanning across a
 | Contest | Description | Result | 
 | ------------- | ------------- | ------------- | 
 | Omni Network | Bridging smart contracts and Cosmos SDK client supporting EVM consensus and cross-chain interoperability functionality | 🥇 1st ($230,532) |
+| VeChain Hayabusa Network Upgrade | Upgrade towards delegated proof-of-stake | 🥇 1st ($126,254) |
 | Optimism Fault Proof (with Team RadiantLabs) | Fault proof protocol and on-chain MIPS VM | 🥇 1st ($92,970) |
 | Berachain (Beacon-Kit) | EVM consensus client implementing beacon chain spec, leveraging CometBFT | 🥈 2nd ($89,779) | 
 | Story L1 | Proof-of-creativity IP protocol, Cosmos SDK client supporting EVM consensus and staking, Geth fork | 4th ($81,021) |
 | Ethereum Pectra Upgrade | Ethereum Pectra Upgrade | 4th ($67,500) |
 | Ronin Network | Proof-of-Authority Geth fork | 4th ($62,256) |
 | Blast L2 | OP stack and Geth fork implementing native yield and novel gas tracking and refund mechanism | 7th ($49,659) |
+| Dango DEX | Orderbook / AMM CosmWasm smart contracts | 🥇 1st ($20,415) |
 | Chainlink CCIP | Cross-chain interoperability and bridging protocol | 🥉 3rd ($10,792) |
 | Thanos L2 | OP stack fork implementing L1 ERC20 token as native token on L2 | 🥇 1st ($4,500) |
 | Ark NFT bridge | Ethereum <-> Starknet NFT bridge implemented in Cairo and Solidity | 🥉 3rd ($3,153) |
